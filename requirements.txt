@@ -1,0 +1,4 @@
+ccxt
+time
+subprocess
+telegram-send
